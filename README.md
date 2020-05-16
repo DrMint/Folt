@@ -2,11 +2,13 @@
 
 Folt is a minimalist matching puzzle created by Daniel Lutz. This repository is a recreation of this iOS app, using Pygame.
 
-
+## Splash screen
 ![](https://www.r-entries.com/etuliens/img/Folt/1.png) 
 
+## Level selection
 ![](https://www.r-entries.com/etuliens/img/Folt/2.png) 
 
+## Level
 ![](https://www.r-entries.com/etuliens/img/Folt/3.png) 
 
 ```python
