@@ -1,8 +1,11 @@
 # Folt
 
 Folt is a minimalist matching puzzle created by Daniel Lutz. This repository is a recreation of this iOS app, using Pygame.
-Using only the arrows keys, you can move your position on the grid. By doing so, you will also place a colored square on your new position. The color of the cube is given by the top left color. The next three colors are actually displayed up there, along your current score and goal.
+
+Using only the arrows keys, you can move your position on the grid. By doing so, it will also place a colored square on your new position. The color of the cube is given by the top left color. The next three colors are actually displayed up there, along your current score and score to reach.
+
 When at least three square of the same colors are connected, they all disappear (including the one your standing on). In normal levels, the goal is to make a given number of square dissapear. In "Collect the diamonds" levels, the player must remove pre-placed squares marked by a white filled circle (those are called diamonds).
+
 A number of parameters can be tweak on a per-level basis:
 - The coordinates of the level on the "Level selection menu".
 - Its level number
