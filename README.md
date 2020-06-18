@@ -27,10 +27,10 @@ level_info[4][1] = [4, 2, 3, [5,8], game_mode_available[1], 3, 0, 1]
 ```
 
 ## Splash screen
-![](https://www.r-entries.com/etuliens/img/Folt/1.png) 
+![](https://r-entries.com/etuliens/img/Folt/1.png) 
 
 ## Level selection
-![](https://www.r-entries.com/etuliens/img/Folt/2.png) 
+![](https://r-entries.com/etuliens/img/Folt/2.png) 
 
 ## Level
-![](https://www.r-entries.com/etuliens/img/Folt/3.png) 
+![](https://r-entries.com/etuliens/img/Folt/3.png) 
